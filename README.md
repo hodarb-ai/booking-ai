@@ -1,2 +1,2 @@
 # booking-ai
-Add Booking.com AI Assistant project files
+Booking.com AI Assistant project files
